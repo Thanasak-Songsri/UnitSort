@@ -1,2 +1,2 @@
-ทดสอบ UnitTest ของ Function merg
+ทดสอบ UnitTest ของ Function merge
 command: npm test
