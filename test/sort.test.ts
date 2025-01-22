@@ -1,4 +1,4 @@
-// test/merge.test.ts
+
 import { merge } from "../src/sort";
 
 describe("merge function", () => {
